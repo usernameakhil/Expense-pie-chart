@@ -1,0 +1,28 @@
+ How to Use
+Enter a Category
+Example: Food, Rent, Transport, Utilities
+Enter an Amount
+Example: 150, 45.75, 1000
+Click “Add Expense”
+The pie chart updates automatically to reflect your expenses.
+
+ Example
+Category	Amount
+Food	$150
+Rent	$800
+Transport	$50
+
+These entries will appear as segments in the pie chart.
+
+ Tips
+You can enter the same category multiple times — the amounts will be added together.
+Refreshing the page clears your data (no storage enabled).
+Use meaningful category names to keep your chart easy to read.
+ Want More Features?
+Here are a few enhancements you can add:
+
+ Save expenses using localStorage
+ Add timestamps or monthly filters
+ Use a bar chart or line chart view
+Let me know if you'd like help adding any of these!
+
